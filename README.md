@@ -42,9 +42,10 @@ WEB ODEVI
 * SPA yapısına uygun olarak içerik alanları tanımlanmıştır.
 
 # css/style.css
-* Tüm sayfanın stil ve tasarım ayarlarını içerir.
+* Sayfanın stil ve tasarım ayarlarını içerir.
 * Responsive (duyarlı) tasarım kuralları bu dosyada yer alır.
 * Renkler, yazı tipleri, kart yapıları ve layout düzenlemeleri burada yapılmıştır.
+  (“Bootstrap sadece tablo stilleri için sınırlı olarak kullanılmıştır, ana tasarım özel CSS ile yapılmıştır.”)
 
 # js/app.js
 * JavaScript kodlarının bulunduğu ana dosyadır.
