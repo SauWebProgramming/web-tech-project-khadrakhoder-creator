@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Web Projesi",
+    "description": "HTML, CSS ve JavaScript kullanilarak geliştirilen SPA tabanli web uygulamasi.",
+    "technologies": "HTML5, CSS3, JavaScript (ES6), DOM Manipulation"
+  },
+  {
+    "title": "C++ Projesi",
+    "description": "Veri yapilari ve algoritmalarin uygulandigi konsol tabanli uygulama.",
+    "technologies": "Struct, Pointer, Döngüler, Fonksiyonlar"
+  },
+  {
+    "title": "Java Projesi",
+    "description": "Nesne yönelimli programlama prensipleriyle geliştirilen masaüstü uygulama.",
+    "technologies": "Class, Inheritance, Polymorphism, Encapsulation"
+  },
+  {
+    "title": "C# Projesi",
+    "description": "C# ile geliştirilen OOP tabanli Windows Forms / Console uygulamasi.",
+    "technologies": "Class, Interface, Inheritance, LINQ"
+  }
+]
